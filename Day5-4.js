@@ -1,5 +1,5 @@
-// let n;
+let sum=0;
 for(i=0;i<=100;i++){
-    i+=i;
+    sum+=i;
 }
-console.log(i);
+console.log(sum);
